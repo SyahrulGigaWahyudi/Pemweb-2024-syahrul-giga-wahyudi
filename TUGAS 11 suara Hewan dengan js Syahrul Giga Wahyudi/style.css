@@ -1,0 +1,17 @@
+.container{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.animal img{
+    width: 289px;
+    height: 300px;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
